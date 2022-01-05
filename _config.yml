@@ -14,14 +14,15 @@ header:
     - name: Home
       slug: /
     - name: About 
+    # Change this to Work
     - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: jkong126822@gmail.com
+      link: mailto:jkong126822@gmail.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
@@ -30,13 +31,11 @@ footer:
       link: http://twitter.com/YourTwitterUsername
       username: "@YourTwitterUsername"
     - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: https://www.facebook.com/profile.php?id=100070990615671
     - name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
+      link: https://github.com/Lojlk
     - name: RSS
       link: /feed.xml
 
