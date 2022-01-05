@@ -2,13 +2,14 @@
  * Site header
  */
 .site-header {
-  border-bottom: 1px solid $grey-color-light;
+  background-color: white;
+  border-bottom: 4.5px double black;
   min-height: 56px;
 
   padding-top: 10px;
   padding-bottom: 10px;
 
-  @include media-query($on-mobile) {
+  @include media-query($on-mobile) {  
     padding-top: 0;
     padding-bottom: 0;
   }
@@ -156,9 +157,24 @@
  * Page content
  */
 .page-content {
+  background-color:  #f8fbff;
   padding: $spacing-unit 0;
 }
 
 .page-heading {
   font-size: 20px;
 }
+
+.sample#bringhurst h1 {
+  color: #333;
+  font: 400 16px 'vollkorn';
+  font-style: italic;
+  margin: 0 0 10px 0;
+  text-indent: -6px; }
+.sample#bringhurst p {
+  color: #c90707;
+  // font: 400 12px/18px 'vollkorn';
+  font: 400 10px 'vollkorn';
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-indent: 1px; }

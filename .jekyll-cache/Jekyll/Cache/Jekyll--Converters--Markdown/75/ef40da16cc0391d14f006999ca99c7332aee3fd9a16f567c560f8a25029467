@@ -1,0 +1,18 @@
+I"ä<p>
+  Welcome! My name is John and I am a second year engineering student. This is my personal website where I blog about my interests and in general, my thoughts. 
+</p>
+
+<section class="sample" id="bringhurst">
+    <section>
+    <br />
+        <h1>&ldquo;Stay Hungry, Stay Foolish&rdquo;</h1>
+        <p>&mdash;Steve Jobs</p>
+    <br />
+    </section>
+  </section>
+
+<p>
+  You can find the source code of my website at <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+</p>
+
+:ET

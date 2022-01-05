@@ -6,9 +6,23 @@ profile_picture:
 ---
 
 <p>
-  Welcome! My name is John and I am a second year engineering student. This is my personal website where I blog about my interests and in general, my thoughts. serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! My name is John and I am a second year engineering student. This is my personal website where I blog about my interests and in general, my thoughts. 
 </p>
 
+<section class="sample" id="bringhurst">
+    <section>
+    <br>
+        <h1>&ldquo;Stay Hungry, Stay Foolish&rdquo;</h1>
+        <p>&mdash;Steve Jobs</p>
+    <br>
+    </section>
+  </section>
+
+
+
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  You can find the source code of my website at <a href="https://github.com/eliottvincent/bay">GitHub</a>.
 </p>
+
+
+
