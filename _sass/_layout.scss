@@ -3,7 +3,7 @@
  */
 .site-header {
   background-color: white;
-  border-bottom: 4.5px double black;
+  border-bottom: 4.5px double red;
   min-height: 56px;
 
   padding-top: 10px;
@@ -19,10 +19,11 @@
 }
 
 .site-title {
-  font-size: 26px;
+  font-size: 20px;
   line-height: 56px;
   letter-spacing: -1px;
   float: left;
+  font-family: 'Times New Roman', Times, serif;
 
   img {
     height: 28px;
@@ -30,9 +31,17 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: red;
   }
 }
+
+#title {
+  color: red;
+  font-family: 'vollkorn', serif;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
 
 /**
  * Site nav
@@ -178,3 +187,4 @@
   letter-spacing: 1px;
   text-transform: uppercase;
   text-indent: 1px; }
+
