@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! My name is John and I am a second year engineering student. This is my personal website where I blog about my interests and in general, my thoughts. 
+  Welcome! My name is John and I am a second year engineering student. This is my personal website where I blog about whatever I am up to. 
 </p>
 
 <section class="sample" id="bringhurst">
@@ -18,11 +18,6 @@ profile_picture:
     </section>
   </section>
 
-
-
-<p>
-  You can find the source code of my website at <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
 
 
 
