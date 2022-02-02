@@ -13,7 +13,7 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Projects
+    - name: Work
     # Change this to Work
     - name: Blog
 
